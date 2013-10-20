@@ -14,9 +14,9 @@ Some commands for reference:
   * `chown root:root example.com-2013.key`
   * `chmod 400 example.com-2013.key`
   * symlink it for convenience
-  * ln -nsf example.com-2013.key example.com.key
+  * `ln -nsf example.com-2013.key example.com.key`
   * Create a certificate signing request
-  * openssl req -new -nodes -key example.com.key -out example.com-2013.csr
+  * `openssl req -new -nodes -key example.com.key -out example.com-2013.csr`
   * paste that into [http://namecheap.com]() to have them sign it
   * when the certificate arrives, unzip it and concatenate it as follows
   * `cat example_com.crt PositiveSSLCA2.crt AddTrustExternalCARoot.crt > example.com-2013.bundle.crt`
