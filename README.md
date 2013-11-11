@@ -1,1 +1,1 @@
-blog data for [http://peterlyons.com]()
+blog data for [](http://peterlyons.com)
