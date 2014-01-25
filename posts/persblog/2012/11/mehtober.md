@@ -20,7 +20,7 @@ Then of course my sister had to have unexpected emergency surgery and Hurricane 
 
 Howewer, there were fun highlights! March Fourth played at the Gothic! I actually talked with Alice from The Afronauts about them last night. She played trumpet with DeVotchka this weekend (awesome!) and March Fourth was opening that show for them. Apparently they are always looking for musicians that can tour with them. Their sax section seems well populated and reasonably stable (they did have a new alto player at this gig vs their Boulder gig in August), but it got me thinking maybe at some point I could make a shot to go on tour with them. How great would it be if they let me do some aerial fabric in the show!?!
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631932122934%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631932122934%2F&set_id=72157631932122934&"/>
+<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631932122934%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631932122934%2F&set_id=72157631932122934&"></flickrshow>
 
 I also went to the Fantastic Hosts Halloween burner dance party, which was a pretty fun time. But overall, I'm glad October is over.
 

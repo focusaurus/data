@@ -1,4 +1,4 @@
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631111885404%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631111885404%2F&set_id=72157631111885404"/>
+<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631111885404%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631111885404%2F&set_id=72157631111885404"></flickrshow>
 
 Wow, what a fantastic night getting my dance-like-nobody's-watching on with Mandaline, Jasmine, and Lani to March Fourth Marching Band at the Fox. They are definitely my favorite live act. ♥ M4. That is a definite contender for best show of 2012 for me. Brenda, did you make it?
 

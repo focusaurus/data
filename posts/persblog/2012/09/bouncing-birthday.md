@@ -2,13 +2,13 @@ OK, let's catch up on the last three weeks. I did a little busking on Pearl St w
 
 Last Friday my friend Piper had a birthday party that started at Serioz Pizza in Denver and continued at Boondocks Fun Center in Glenwood Springs. We had a real blast at Boondocks - 2 kinds of go carts, bowling, laser tag, and arcade games. The go carts in particular were a blast. You really feel like Mario cart as they are so small and so well-encased in metal that you feel indestructible and happily drive in a self-destructive manner to maximize the excitement.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631541633440%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631541633440%2F&set_id=72157631541633440"/>
+<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631541633440%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631541633440%2F&set_id=72157631541633440"></flickrshow>
 
 My upstairs guest room is again changing hands. My current tenant stayed six weeks, during which time he stayed almost entirely in Boulder with his girlfriend. I think he spent a total of about six nights here. Pretty much the ideal tenant, but alas, he has sadly decided to officially shack up with his lady. Thus I have secured a new tenant for October 1.
 
 On Monday I watched an [Ascendance](http://www.ascendanceproject.com/) performance that was one of the [TEDx Boulder](http://tedxboulder.com/) pre-events. I knew about Ascendance, but had never seen them perform. It was really fun to watch and inspiring. They had some good music selections as well.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631607162686%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631607162686%2F&set_id=72157631607162686&"/>
+<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631607162686%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631607162686%2F&set_id=72157631607162686&"></flickrshow>
 
 Tuesday was the Afronauts rehearsal closest to my birthday, and I baked a banana, cinnamon, chocolate chip cake. It came out pretty tasty, but definitely could be improved for next time. I made another cake Thursday for my official birthday. That one was chocolate/cinnamon with chocolate drizzle topping. That was a lot more ingredients and made me a bit nervous at first. The recipe said to bake at 400F for 20 minutes, so I did and when I went to check it, it was still basically liquid. I had to bake it for more about 4x the recipe time. I added more water to the recipe to account for altitude and decreased the baking soda a bit, but still that was unexpected. Anyway, otherwise it came out really well.
 
@@ -18,7 +18,7 @@ Wednesday night I made the Thai green curry recipe Jasmine showed me since now I
 
 Thursday was my first day of "funemployment" since my new job starts October 1. I spent most of the afternoon baking that second chocolate/cinnamon cake. I felt particularly fancy in that I pre-measured out all of my ingredients into little glass bowls so everything was ready to go into the bowl once the batter was started. It was also my official 34th birthday, and that evening a bunch of my friends and I went to [JumpStreet](http://gotjump.com/lakewood/) in Lakewood, and indoor trampoline park. It was really a blast, and at $10 for a 2-hour session it's pretty darn reasonable. We played on their basketball hoops (which wasn't officially part of the package we paid for but the guy running the show was slack on the rules, at least for the first hour or so), fooled around on the giant trampolines, and played trampoline dodge ball. It was good enough exercise that despite eating two gigantic slices of cake smothered in chocolate drizzle afterward, I weighed the same the next day.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631590860916%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631590860916%2F&set_id=72157631590860916&"/>
+<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631590860916%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631590860916%2F&set_id=72157631590860916&"></flickrshow>
 
 Friday I recorded the Serenade I've been working on during the afternoon. I've been getting some input from Chris and making improvements. I think one more take of the main theme and it will be ready. Friday night I went to see the Aspen Santa Fe Ballet at CU. They did 3 pieces and it was really great. I was on an OKCupid date and we hit The Kitchen Next Door afterward for some chocolate mousse.
 

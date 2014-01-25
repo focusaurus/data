@@ -27,4 +27,4 @@ It was a great ride. We only ran into one other couple riding it that early. It 
 
 After the ride we cleaned up in the hostel and then ate a well-deserved lunch at Brick Oven Pizza and enjoyed the crisp air and peoplewatching the smiling faces of Crested Butte. Brenda and Judy had done the Lupine trail with a much later start, so they got back around 1:30, showered at the hostel, and then we were off just as the afternoon rainstorm hit.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157630596436264%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157630596436264%2F&set_id=72157630596436264"/>
+<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157630596436264%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157630596436264%2F&set_id=72157630596436264"></flickrshow>

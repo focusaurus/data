@@ -2,4 +2,4 @@ So Sunday we had a gathering of friends down in Denver to venture into the culin
 
 So the Turkey Cake is something Chris has made for the past few years. It's pretty brilliant. The base is a turkey patty which is basically meatloaf style. Then there are layers of mashed potatoes, stuffing, cranberries, sweet potatoes, an "icing" layer of mashed potatoes, and topped off with mini marshmellows. It was really delicious and we followed it up with Bavarian chocolate cake. Detailed photos here are below.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157632915564844%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157632915564844%2F&set_id=72157632915564844&"/>
+<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157632915564844%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157632915564844%2F&set_id=72157632915564844&"></flickrshow>
