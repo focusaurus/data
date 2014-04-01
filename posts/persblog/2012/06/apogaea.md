@@ -44,7 +44,7 @@ Saturday afternoon Andrea and I wondered up to Banana Republika for a great part
 
 Early in the evening Jasmine, Andrea, and I headed over to the Sound Puddle with instruments in tow. We found a bunch of other CoiL performers there as well. We played a bunch of tunes and enjoyed the great vibe in there and the LED light show. There were a bunch of really great moments. These are the moments that bring me to these events. They are such a great contrast to the frenzy of the dancing/drinking/drugging/partying scene, but they are just as much a part of what these festivals are about. There are several other videos in addition to the one below if you want to check them out.
 
-<youtube href="http://www.youtube.com/embed/K27MA8v91D4"><youtube>
+<youtube href="http://www.youtube.com/embed/K27MA8v91D4"></youtube>
 
 After a while in the Sound Puddle I think Andrea and I went to look at stars for a while before returning to the Gypsy Wagon.
 

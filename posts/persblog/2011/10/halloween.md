@@ -16,11 +16,11 @@ Today I got a late start and grabbed a breakfast quesadilla at Paul's Coffee.  I
 
 <flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157627891409843%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157627891409843%2F&set_id=72157627891409843"></flickrshow>
 
-<youtube href="http://www.youtube.com/embed/rEfGImX5iWI"><youtube>
+<youtube href="http://www.youtube.com/embed/rEfGImX5iWI"></youtube>
 
-<youtube href="http://www.youtube.com/embed/icPDULPqEqU"><youtube>
+<youtube href="http://www.youtube.com/embed/icPDULPqEqU"></youtube>
 
-<youtube href="http://www.youtube.com/embed/CQ3FnJC2gi8"><youtube>
+<youtube href="http://www.youtube.com/embed/CQ3FnJC2gi8"></youtube>
 
 A small bit of technical note: I've started using [Flickr](http://flickr.com) to manage my photos.  My home-grown photo management system has served me well for the past decade, but I've grown tired of maintaining it and futzing too much with EXIF metadata and JSON files, so up to Flickr it goes.
 
