@@ -18,4 +18,4 @@ Once back in town, we stopped at a grocery store where Jasmine got a gift for th
 
 This was my first-ever backpacking trip and probably my first legitimate camping experience. I bought the pack last summer and only used it for climbing day trips. It was a good experience and for the most part I had a good set of gear. Some minor tweaks next, time, that's all.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157630831350450%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157630831350450%2F&set_id=72157630831350450"></flickrshow>
+<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157630831350450/"></flickrshow>

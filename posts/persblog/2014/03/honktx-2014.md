@@ -32,8 +32,8 @@ However, we found out that Michael never came home Sunday night and had left his
 
 Kate, Maggie, Raptor, Tuba Mike, and I went and got amazing BBQ lunch at Lambert's by the lake. Then we went for a long walk around the lake. The Breana picked us up and we got some drinks before heading to the airport.
 
-At some point later Monday I guess Tung got in touch with Michael's family and eventually the contacted the police and filed a missing person report. Michael was not seen in Austin again and we were all worried sick. On Tuesday, his mother reported that he had been spotted in Houston, which gave us some relief that he was at least physically OK, but he remained missing until Thursday when somehow he ended up with his Aunt in Louisiana. We still haven't gotten the full details on exactly what happened, but now we know's he's back safe with his family, thankfully. 
+At some point later Monday I guess Tung got in touch with Michael's family and eventually the contacted the police and filed a missing person report. Michael was not seen in Austin again and we were all worried sick. On Tuesday, his mother reported that he had been spotted in Houston, which gave us some relief that he was at least physically OK, but he remained missing until Thursday when somehow he ended up with his Aunt in Louisiana. We still haven't gotten the full details on exactly what happened, but now we know's he's back safe with his family, thankfully.
 
 But other than that terrifying incident, Honk was an absolute blast. We have confirmed we will be going to Honk Fest West in Seattle in June and doing a west coast tour leading up to that, which should be amazing.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157642742243474%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157642742243474%2F&set_id=72157642742243474&"/>
+<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157642742243474/"></flickrshow>

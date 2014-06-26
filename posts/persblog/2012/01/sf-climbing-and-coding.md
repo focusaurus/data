@@ -8,4 +8,4 @@ Friday morning I stopped briefly at Epicenter Cafe which is supposedly frequente
 
 Overall it was a super fun and productive visit. It basically alternated awesome work related things with awesome social things and I'm sure I'll have fond memories of this particular trip for a while.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157628993108793%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157628993108793%2F&set_id=72157628993108793"></flickrshow>
+<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157628993108793/"></flickrshow>

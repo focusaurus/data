@@ -28,4 +28,4 @@ After the show we went back to the main stage area, grabbed some festival food f
 
 We were getting a bit drowsy, so we went back to the car, drove over to City Park which was not part of the festival, and took a nice nap in the grass. Then we drove to Lory State Park for a quick hike before the park closed for the evening. We drove back to Louisville, stopped at the grocery store to get ingredients for a green curry, and went home to cook it up. It was a delicious dinner, but it was almost 10 PM by the time we ate it.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631370187376%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631370187376%2F&set_id=72157631370187376"></flickrshow>
+<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157631370187376/"></flickrshow>

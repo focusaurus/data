@@ -1,4 +1,4 @@
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631063757688%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157631063757688%2F&set_id=72157631063757688"></flickrshow>
+<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157631063757688/"></flickrshow>
 
 Yesterday I spent the day in NYC and visited with Chris and Alex. I drove in to Trenton with my Dad on his way to work and took the train into New York. I hopped the E subway and stored my bag at [Schwartz Travel](http://www.schwartztravel.com) near Grand Central Terminal. Then I rode up to 86th street and walked around looking for food. I had some pizza and then got a cupcake at [Eleni's Bakery](http://elenis.com/), which I ate in the park. I waited for Chris outside the Guggenheim a bit, then we went through the museum together. We both enjoyed the architecture and the one annex of impressionist and cubist paintings.
 

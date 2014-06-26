@@ -22,4 +22,4 @@ After that Ed joined me and we walked a ways along the coast line there and talk
 
 Waiting to board I realized my flight would arrive after the last RTD bus back to the park and ride where I left my car. Drat. Planning fail. I had to call my assistant Brianna to come pick me up. Note to self for next time.
 
-<flickrshow href="page_show_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157629173061132%2Fshow%2F&page_show_back_url=%2Fphotos%2F88096431%40N00%2Fsets%2F72157629173061132%2F&set_id=72157629173061132"></flickrshow>
+<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157629173061132/"></flickrshow>
