@@ -6,6 +6,6 @@ We had a short layover in Seoul before a 6-hour leg to Bangkok. This leg was pre
 
 In Bangkok, both passport control and customs turned out much easier than we thought. Passport control didn't ask us any questions, or ask to see proof of onward travel. Customs, from what we could tell, consisted of a huge sign reading "Customs" and you walk under it and that's all there is to it. We took a cab to our hotel and got checked in without any real fuss.
 
-Today we explored the "Silom Road" neighborhood a bit including a nearby open air food market in a narrow street. I was hesitant to try street food on day one, so we got American-style breakfast at a small cafe us Shannon reached elevated levels of hangriness. After that we got some sim cards, waited out two brief bits of heavy rain under awnings along the sidewalk, and napped a bit in the afternoon.
+Today we explored the "Silom Road" neighborhood a bit including a nearby open air food market in a narrow street. I was hesitant to try street food on day one, so we got American-style breakfast at a small cafe as Shannon reached elevated levels of hangriness. After that we got some sim cards, waited out two brief bits of heavy rain under awnings along the sidewalk, and napped a bit in the afternoon.
 
 Shannon seems more jet lagged than me so I worked some from the hotel lobby while she slept the second part of the afternoon. We'll grab some dinner once she wakes up and then this evening I'll attempt to join a google hangout meeting in the US. We'll see how it works given the Internet here is just passable.
