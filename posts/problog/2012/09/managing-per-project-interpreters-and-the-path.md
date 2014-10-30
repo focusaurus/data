@@ -52,9 +52,9 @@ This is a follow up to my [earlier blog post about avoiding npm -g](/problog/201
 
 ## Provide a single script to launch your application commands
 
-Encapsulate each version with a wrapper shell script that understands the project directory layout and manages your PATH appropriately. I tend to call this file `project_root/do` but `project_root/bin/tasks.sh` or similar are good locations for this. This script should handle your service operations like start, stop, reload, etc, as well as any one-off commands you make have like clearing a cache, regenering static files, and so forth.
+Encapsulate each version with a wrapper shell script that understands the project directory layout and manages your PATH appropriately. I tend to call this file `project_root/bin/go` but `project_root/bin/tasks.sh` or similar are good locations for this. This script should handle your service operations like start, stop, reload, etc, as well as any one-off commands you make have like clearing a cache, regenering static files, and so forth.
 
-Here's a snippet of my `project_root/do` script which locates the correct installation of python and fabric and passes control to them.
+Here's a snippet of my `project_root/bin/go` script which locates the correct installation of python and fabric and passes control to them.
 
     #!/bin/sh -e
     cd $(dirname "${0}")
