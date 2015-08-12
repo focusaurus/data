@@ -116,3 +116,7 @@ In this post I want to chronicle my learning of Clojure from the beginning.
 
 #Thursday, February 19, 2015 10:19 AM MST
 * http://www.niwi.be/cljs-workshop/
+
+
+#Thursday, May 07, 2015 01:07 PM MDT
+* https://www.youtube.com/watch?v=Mfsnlbd-4xQ
