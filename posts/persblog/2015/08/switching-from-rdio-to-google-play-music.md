@@ -1,0 +1,5 @@
+I've been a very enthusiastic user of music streaming services since the early days of rhapsody. I've tried most of them and was mostly satisfied with rdio for the past several years. I finally decided to switch due to annoying lock-ups in their mobile app (which I believe is a wrapped web app and not a native mobile app) and other technical problems that persisted for months and months.
+
+I discovered a lot of great music while on rdio and I wanted to keep records of that and transfer as much over to Google Play as possible. I found a chrome extension [rdio enhancer](https://chrome.google.com/webstore/detail/rdio-enhancer/hmaalfaappddkggilhahaebfhdmmmngf?hl=en-US) that let me export my playlists to CSV files and I hired a freelancer on [upwork](https://www.upwork.com) to rebuild them in Google Play. Not ideal, but it only cost me $15 bucks and I searched the web extensively for some automated tool but found almost nothing works with Google Play.
+
+I'm excited about Google Play because I can listen to both my personal collection of mp3s ripped from my CD collection and their huge library in the same app.
