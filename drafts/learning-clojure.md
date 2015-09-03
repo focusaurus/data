@@ -120,3 +120,7 @@ In this post I want to chronicle my learning of Clojure from the beginning.
 
 #Thursday, May 07, 2015 01:07 PM MDT
 * https://www.youtube.com/watch?v=Mfsnlbd-4xQ
+
+
+#Wednesday, August 26, 2015 07:40 AM MDT
+* http://owenrh.me.uk/blog/2015/08/24/
