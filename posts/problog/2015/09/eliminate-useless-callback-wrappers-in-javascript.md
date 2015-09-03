@@ -1,7 +1,7 @@
 Just a quick tip from some code I encountered today. Instead of this:
 
 
-    function outerFunc (callbacj) {
+    function outerFunc (callback) {
       doSomething(42, function (err) {
         callback(err)
       })
@@ -9,7 +9,7 @@ Just a quick tip from some code I encountered today. Instead of this:
 
 Eliminate the useless callback wrapper function:
 
-    function outerFunc (callbacj) {
+    function outerFunc (callback) {
       doSomething(42, callback)
     }
 
