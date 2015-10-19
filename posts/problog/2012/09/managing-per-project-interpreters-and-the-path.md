@@ -62,7 +62,7 @@ Here's a snippet of my `project_root/bin/go` script which locates the correct in
 
 Thus I can run this script from any directory, or from an init/upstart script, with any PATH, and the application correctly handles its own required settings. The above is the bare bones and the crux of the separation of concerns in the design. I normally have some other code in there to bootstrap the project's dependencies, but I'll save that topic for another blog post.
 
-##For local development, manage your PATH intelligently and automatically
+## For local development, manage your PATH intelligently and automatically
 
 As you work on many projects which contain their own interpreter installations, you don't want to always have to A) work from the project root directory and B) run commands like `./python/bin/python myapp.py`. So here are some utilities that can intelligently manage your PATH similar to what is done by [rbenv](https://github.com/sstephenson/rbenv), but not tied to ruby and based on you changing project directories.
 

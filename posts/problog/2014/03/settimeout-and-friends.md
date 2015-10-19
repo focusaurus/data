@@ -1,6 +1,6 @@
 So I was recently scheduled to do an [AirPair](http://airpair.com) pair programming session to help someone understand the various javascript functions available for asynchronous programming.
 
-This topic is key to writing correct code both in node.js and the browser, but it is indeed easy to see how things can be quite confusing when first encountering a myriad of functions that all seem to basically do the same thing. 
+This topic is key to writing correct code both in node.js and the browser, but it is indeed easy to see how things can be quite confusing when first encountering a myriad of functions that all seem to basically do the same thing.
 
 `setTimeout`, `setImmediate`, `process.nextTick`? Which one is best? What are the differences?
 
@@ -56,18 +56,18 @@ So I went and researched this and put together what I hope to be a mostly compre
 - [node.js docs](http://nodejs.org/docs/latest/api/all.html#all_clearimmediate_immediateobject)
 - [MDN docs](https://developer.mozilla.org/en-US/docs/Web/API/Window.clearImmediate)
 
-##"naming stuff is hard" --@izs
+## "naming stuff is hard" --@izs
 
-`setImmediate` happens on the NEXT tick. 
+`setImmediate` happens on the NEXT tick.
 
 `process.nextTick` happens on the SAME tick (usually, with caveat about `maxTickDepth`).
 
-##Which one to use in node.js
+## Which one to use in node.js
 
 Generally `setImmediate` is the best practice starting with node.js v0.10, so that's what you should use. However, if you need to support node v0.8, using `process.nextTick` is still fine. The whole problem of I/O starvation doesn't occur in most projects. It's only in certain types of code that are either misguided and poorly coded or truly have a weird edge case. For your run-of-the-mill node.js callback, either is just fine but `setImmediate` is better.
 
 
-#Reference Articles
+# Reference Articles
 - [The node.js Timers documentation](http://nodejs.org/api/timers.html)
 - [The Case for setImmediate](http://www.nczonline.net/blog/2013/07/09/the-case-for-setimmediate/)
 - [setImmediate vs nextTick](http://stackoverflow.com/questions/15349733/setimmediate-vs-nexttick)

@@ -22,7 +22,7 @@ Saturday was the outdoor festival and we started things off at noon. Then we wen
 
 Sunday we did the parade and the all-band review. Then we headed to Banger's for an awesome multi-band dinner. We ate outdoors all on a giant row of picnic tables. The food and drink were delicious. I had a BBQ bacon and shrimp sausage with cheese grits that was as good as it sounds. Afterward we biked a good ways to another venue for the HonkTx 2014 Funeral event. GGO played a short set as did a handful of other bands.
 
-###The Problem
+### The Problem
 
 So Monday morning we had a corporate gig to play at the Energy Thought Summit conference downtown. Here's a video of Apple co-Founder and legendary geek Steve Wozniak arriving in a Telsa and riding a Segway to the stage while GGO plays the music from Super Mario Brothers.
 

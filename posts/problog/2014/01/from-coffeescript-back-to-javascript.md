@@ -1,6 +1,6 @@
 So after about two years of preferring CoffeeScript for my application code, I'm switching back to JavaScript. Here are some thoughts on my experience.
 
-##Why I Am Switching Back
+## Why I Am Switching Back
 
 So in winter 2011, given my personal situation and skillset, the cost/benefit equation for CoffeeScript was an overall positive. What I have found is that in the intervening two years, the equation has reversed to be an overall negative for CoffeeScript. So that's why I'm switching, Here are some of the specifics.
 
@@ -12,7 +12,7 @@ I've grown weary of the compiler overhead, extra build step, extra dependencies,
 
 Also, the community overall has had more time to settle. Many hip things that had potential to catch on have been pretty soundly spurned, at least by the node.js thought leadership. For example, fibers, coffeescript, iced coffeescript. I think the Ruby on Rails use of CoffeeScript by default is probably the single biggest vote of support and will probably keep CoffeeScript alive and prominent for at least a few years, but within the node.js community it is past peak and on the decline I think.
 
-##CoffeeScript Features I Valued Most
+## CoffeeScript Features I Valued Most
 
 **No explicit punctuation to close a block**. I do indeed strongly prefer significant white space and required indentation. CoffeeScript gives me one less thing to obsess over and OCD about, and when I write JavaScript, especially when I refactor heavily-nested node.js code with callbacks, managing all those `});` marks is a real nuisance. I hope to get reliable auto-formatting working in my sublime text setup soon. At the moment I have good linters, but no 1-click "just fix all the formatting" button yet.
 
@@ -24,7 +24,7 @@ Also, the community overall has had more time to settle. Many hip things that ha
 
 **existential operator (user?.name)**. This really does come in handy and really does generate JavaScript that is more correct than what you would code by hand.
 
-##CoffeeScript Features That Are Nice But Not Ultimately Compelling
+## CoffeeScript Features That Are Nice But Not Ultimately Compelling
 
 **skinny arrow functions**. Good use of punctuation but I have editor macros anyway so I don't actually type the word "function" ever.
 
@@ -36,7 +36,7 @@ Also, the community overall has had more time to settle. Many hip things that ha
 
 **splat arguments**. Also quite nice and saves error-prone boilerplate, but I also don't code varargs functions often enough to feel this pain sharply.
 
-##CoffeeScript Features I Just Plain Dislike Now
+## CoffeeScript Features I Just Plain Dislike Now
 
 **optional parentheses**. These just don't ultimately help consistently or by a large enough amount. Another thing python got correct.
 
@@ -50,7 +50,7 @@ Also, the community overall has had more time to settle. Many hip things that ha
 
 **aliases for true and false**. Complete useless bloat. true and false. Done.
 
-##Practical Considerations
+## Practical Considerations
 
 When I started with CoffeeScript, I wasn't that concerned with the wider node.js and JavaScript community. I enjoy eschewing social norms and being independent. However, now I am more interested in writing open source npm packages and contributing to others' modules. Thus I think it makes sense for me to focus on JavaScript.
 
@@ -58,7 +58,7 @@ One point I want to be clear on is that I think it has always been a poor choice
 
 But for me I'm more and more extracting reusable modules from my applications and once that happens it's a pain to switch between CoffeeScript for the application code and JavaScript for the reusable modules the application uses, which are often worked on in parallel. So that's another practical consideration pushing me to all JavaScript.
 
-##Was Coding CoffeeScript A Mistake?
+## Was Coding CoffeeScript A Mistake?
 
 Absolutely not. I'm a better programmer overall, a better CoffeeScript programmer, and a better JavaScript programmer because I made a significant investment and effort to learn and use CoffeeScript on several small applications. Especially if you don't know python or ruby, learning CoffeeScript and using it in a few small applications will teach you valuable things.
 
