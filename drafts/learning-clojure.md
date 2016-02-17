@@ -124,3 +124,27 @@ In this post I want to chronicle my learning of Clojure from the beginning.
 
 # Wednesday, August 26, 2015 07:40 AM MDT
 * http://owenrh.me.uk/blog/2015/08/24/
+
+
+#Thursday, October 22, 2015 07:35 PM MDT
+* http://bucharestfp.ro/2015/10/21/clojure-all-the-way-down-finally-a-useful-lisp/
+
+
+#Thursday, November 19, 2015 04:12 PM MST
+* https://www.youtube.com/watch?v=gsffg5xxFQI
+
+
+#Wednesday, November 25, 2015 08:48 PM MST
+* http://adambard.com/blog/five-mistakes-clojure-newbies-make/
+
+
+#Thursday, December 10, 2015 04:13 AM MST
+* http://www.sitepoint.com/introduction-to-clojurescript/
+
+
+#Monday, December 14, 2015 07:57 AM MST
+* http://www.pitheringabout.com/?p=1069
+
+
+#Monday, January 11, 2016 07:40 AM MST
+* http://stuartsierra.com/2016/01/09/how-to-name-clojure-functions
