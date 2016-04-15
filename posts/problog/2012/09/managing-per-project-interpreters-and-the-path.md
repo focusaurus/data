@@ -1,3 +1,5 @@
+**Updated: 2016-04-14**
+
 So let's talk about managing runtimes and interpreters for projects and applications. This post comes about after I have seen a vast jungle of non-solutions and dead ends out there for managing installations of interpreters such as Python, Ruby, node.js, etc. First, let's clear the air of a bunch of nonesense you may find out there that makes this problem confusing.
 
 ## Never use the interpreter provided by your operating system
@@ -8,7 +10,7 @@ The reasoning behind this guideline is as follows.
 
 * **Exact version**: Applications need exact and strict control of the version of their interpreter. You should be using the exact same version of your interpreter across all of your development, test, staging, and production environments. This will avoid problems which are easily-avoidable, so do it.
 * **Modern version**: OSes tend to ship versions of these interpreters that are significantly behind the latest stable version. New applications should be written to work with the latest stable version and should keep up with ongoing releases, never getting more than 3 months behind.
-* **Independence** Applications need independence from one another. If you have 3 Django projects on the same machine, each one needs to have the ability to use whatever interpreter **version** it needs on its own independent **schedule**. Due to this fact, that means the correct location for these interpretters is within your application's directory alongside your application code, which is why I advise you to ignore the node.js debian packages you may find out there because it installs into a shared location, which does not meet our goals here.
+* **Independence** Applications need independence from one another. If you have 3 Django projects on the same machine, each one needs to have the ability to use whatever interpreter **version** it needs on its own independent **schedule**. Due to this fact, that means the correct location for these interpreters is within your application's directory alongside your application code, which is why I advise you to ignore the node.js debian packages you may find out there because it installs into a shared location, which does not meet our goals here.
 
 ## Keep the app-specific interpreter within the application install directory
 
@@ -22,33 +24,13 @@ Basically, the old school unix principles have gone stale on us. Years ago, sysa
 
 Now we use automated tools to manage deployments to clusters of independent servers, and disk space is cheap, so we want each server to have its own copy of what it needs to run with as few external dependencies as possible. We want to be able to do rolling deploys across a cluster or run 1/2 the cluster on the new code and half on the old code.  Disk space is cheap and plentiful, so if we have 5 or 10 apps running on the same staging server, we could not care less about a few megabytes of duplication to handle a bunch of python installations.
 
-## Installing local versions of node.js
+## OR use tools like nvm and rbenv
 
-Now that Joyent is shipping pre-compiled binaries, installing node interpreters in the manner described here is a snap. Here's an `install_node.sh` script. Pass it the version you want and where you want it installed (works with node >= 0.8).
-
-    #!/bin/sh
-    VERSION=${1-0.8.8}
-    PREFIX=${2-node}
-    PLATFORM=$(uname | tr A-Z a-z)
-    ARCH=x64
-    case $(uname -p) in
-        i686)
-            ARCH=x86
-        ;;
-    esac
-    if [ -e "${PREFIX}" ]; then
-        TS=$(date +%Y%m%d-%H%M%S)
-        echo "WARNING: Moving existing file at ${PREFIX} to ${PREFIX}-previous-${TS}" 1>&2
-        mv "${PREFIX}" "${PREFIX}-previous-${TS}"
-    fi
-    mkdir -p "${PREFIX}"
-    curl --silent \
-      "http://nodejs.org/dist/v${VERSION}/node-v${VERSION}-${PLATFORM}-${ARCH}.tar.gz" \
-      | tar xzf - --strip-components=1 -C "${PREFIX}"
+Some but not all of the interpreter managers are fully compatible with the requirements outlined above, so it's OK to use `nvm` or `rbenv` as long as each project gets to specify it's exact version.
 
 ## Never use npm -g
 
-This is a follow up to my [earlier blog post about avoiding npm -g](/problog/2011/12/no-need-for-npm-g), now improved and revised. For the most part, I believe [npm](https://npmjs.org/) to be the state-of-the-art package management system and to be superior to the messes available for python and ruby. However, the `-g` switch, which installs commands `globally`, should be avoided in favor of the system described here. You don't want to have to upgrade all your express.js apps at once, so give them each their own copy of the `express` script.
+This is a follow up to my [earlier blog post about avoiding npm -g](/problog/2011/12/no-need-for-npm-g), now improved and revised. For the most part, I believe [npm](https://npmjs.org/) to be the state-of-the-art package management system and to be superior to the messes available for python and ruby. However, the `-g` switch, which installs commands `globally`, should be avoided in favor of the system described here. You don't want to have to upgrade all your apps at once to a new version of `eslint`, so give them each their own copy of the `eslint` command.
 
 ## Provide a single script to launch your application commands
 
@@ -80,48 +62,55 @@ First, here's how I set up my `PATH` in my `~/.zshrc` file (works equally well f
         fi
     }
 
-    setupPath() {
-        #Start with an empty PATH
-        PATH=
-        #Local pwd stuff
-        addPath "${PWD}/script"
-        addPath "${PWD}/bin"
-        #For node
-        addPath "${PWD}/node_modules/.bin"
-        addPath "${PWD}/node/bin"
-        #For python virtualenvs
-        addPath "${PWD}/python/bin"
+    setup_path() {
+      PATH=
+      # Normal system stuff comes first for security
+      # So npm packages can't override basic commands like ls
 
-        #Personal home dir stuff
-        addPath ~/bin
-        #For rbenv
-        addPath ~/.rbenv/bin
-        addPath ~/.cabal/bin
-        #Homebrew
-        addPath ~/Library/Python/2.7/bin
-        addPath /usr/local/share/python
-        addPath /usr/local/bin
-        #XCode/Developer
-        addPath /Developer/usr/bin
-        #Normal system stuff
-        addPath /bin
-        addPath /usr/bin
-        addPath /sbin
-        addPath /usr/sbin
-        addPath /usr/X11/bin
+      # Homebrew
+      add_path "/usr/local/bin"
+
+      add_path "/bin"
+      add_path "/usr/bin"
+      add_path "/sbin"
+      add_path "/usr/sbin"
+      add_path "/usr/X11/bin"
+
+      # Personal home dir stuff
+      add_path "${HOME}/projects/dotfiles/bin"
+      add_path "${HOME}/bin"
+
+      # Local pwd stuff
+      add_path "${PWD}/script"
+      add_path "${PWD}/bin"
+
+      # For node
+      add_path "${PWD}/node_modules/.bin"
+      add_path "${HOME}/shared_node.js/node_modules/.bin"
+      add_path "${HOME}/shared_node.js/node/bin"
+
+      # For per-project python virtualenvs
+      add_path "${PWD}/python/bin"
+      add_path "${PWD}/env/bin"
+
+      add_path "${HOME}/.rbenv/bin"
+
+      export PATH
+      [[ -d "${HOME}/.rbenv/bin" ]] && eval "$(rbenv init -)"
     }
-    #Run this during shell startup. Can be re-run as needed manually as well
-    setupPath
+    # Run this during shell startup.
+    # Can be re-run as needed manually as well
+    setup_path
 
 OK, so that's how the `PATH` gets built up, but we want to change the PATH as we move our current working directory between projects. For that we use a shell hook function. What this does is try to detect if we've changed into a project directory, and if so, rebuild the `PATH`, which will put our project-specific directories early in the `PATH` list, so when we type `node` or `python` or `coffee`, etc, we get the project specific one under the project root. Because this adds absolute paths and only changes the `PATH` when we `cd` to a project root, we can cd to subdirectories within the project and still be running the correct project-specific interpreter. This does breakdown, however, if you cd directly into a project subdirectory without stopping in the project root. I don't hit that problem because I'm not in the habit of doing that, but YMMV. Here's the zsh version, which uses the [chpwd](http://www.refining-linux.org/archives/42/ZSH-Gem-8-Hook-function-chpwd/) hook function.
 
     if [ -n "${ZSH_VERSION}" ]; then
-        chpwd() {
-            [ -d .git -o \
-              -d  node_modules/.bin -o \
-              -d python/bin -o \
-              -d node/bin ] && setupPath
-        }
+      chpwd() {
+        [ -d .git -o \
+          -d  node_modules/.bin -o \
+          -d python/bin -o \
+          -d node/bin ] && setupPath
+      }
     fi
 
 Bash users, [you're on your own](http://stackoverflow.com/questions/3276247/is-there-a-hook-in-bash-to-find-out-when-the-cwd-changes).
