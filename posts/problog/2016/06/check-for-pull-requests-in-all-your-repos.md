@@ -14,7 +14,6 @@ Now you're ready to add this shell script to your shell profile:
 ```sh
 check_pull_requests() {
   local organization="YourGithubOrg" # Edit this
-  local 
   for repo in repo-1 repo-2 repo-3 repo-4; do # Edit this repo list
     echo "* ${repo}"
     curl \
