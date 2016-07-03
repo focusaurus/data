@@ -20,7 +20,7 @@ check_pull_requests() {
       --silent \
       --header "Authorization: token $(cat ~/.github-pr-status-token.txt)" \
       "https://api.github.com/repos/${organization}/${repo}/pulls" \
-      | json -a 'title'
+      | json -a title url
   done
 }
 ```
