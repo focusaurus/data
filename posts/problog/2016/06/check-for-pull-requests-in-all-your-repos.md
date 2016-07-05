@@ -20,7 +20,7 @@ check_pull_requests() {
       --silent \
       --header "Authorization: token $(cat ~/.github-pr-status-token.txt)" \
       "https://api.github.com/repos/${organization}/${repo}/pulls" \
-      | json -a title url
+      | json -a title html_url
   done
 }
 ```
@@ -29,10 +29,10 @@ The output will look something like this:
 
 ```
 * repo-1
-Update config for Heroku
+Update config for Heroku https://github.com/YourGithubOrg/repo-1/pull/13
 * repo-2
 * repo-3
-Fix Bug #42
+Fix Bug #42 https://github.com/YourGithubOrg/repo-3/pull/42
 * repo-4
 ```
 
