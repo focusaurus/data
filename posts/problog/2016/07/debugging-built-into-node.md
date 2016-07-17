@@ -1,0 +1,1 @@
+Big news in node.js land! node.js v6.3.0 now ships with experimental support for built-in debugging via the chrome devtools. I've updated my [JS Debugging](/js-debug) article/talk with all the details you need to use this awesome new capability to give yourself debugging superpowers.
