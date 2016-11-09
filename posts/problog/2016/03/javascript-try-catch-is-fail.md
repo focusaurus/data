@@ -22,9 +22,9 @@ Thus I can set up a `process.on('uncaughtException')` handler and confidently ex
 
 Now, this does require discipline to properly handle all error-first callbacks and some boilerplate comes with that. Failing to do so risks operational errors going undetected, but usually within a few lines of code, those operational errors are inadvertently escalated to programmer errors when you try to access the first record in a database query result array, which is undefined because the query failed and you ignored the error. **Operational errors eventually manifesting as impostor programmer errors are pretty bad (but...)**. I do see YOLO-ignore-the-error code occasionally in my consulting practice, but I'm usually able to make a convincing argument that all errors must be at the very least logged if you don't want to spend days debugging odd program behavior.
 
-### ES2015 async/await ruins this
+### ES2017 async/await ruins this
 
-Part of my motivation to write this post was exasperation encountering my first bleeding-edge babel/ES2015/ES2016 project that combines async functions, the await keyword, promises, and try/catch. You get code looking like this:
+Part of my motivation to write this post was exasperation encountering my first bleeding-edge babel/ES2015/ES20XX project that combines [async functions](https://tc39.github.io/ecmascript-asyncawait/) (Slated for ES2017), the await keyword, promises, and try/catch. You get code looking like this:
 
 ```
 try {
@@ -51,8 +51,8 @@ The problem is this masks a programmer error as an operational error. What happe
 
 ### Freaking out
 
-So with ES2015 the combination of await, implicit promises, and try/catch for error handling seems to me like this scenario is going to become increasingly common, and I'm worried about how I can actually still detect programmer errors and exit. The duck typing of exception instances in javascript is sufficiently undefined, unimplemented, and unreliable that I doubt you can reliably distinguish unless you have a complete and well-understood catalog of all possible operational exceptions a block of code might generate, which I don't think is feasible without slimming your `try` blocks down to a single operation, which loses a primary proposed benefit of try/catch in reduction of error handling boilerplate.
+So with ES2017 the combination of await, implicit promises, and try/catch for error handling seems to me like this scenario is going to become increasingly common, and I'm worried about how I can actually still detect programmer errors and exit. The duck typing of exception instances in javascript is sufficiently undefined, unimplemented, and unreliable that I doubt you can reliably distinguish unless you have a complete and well-understood catalog of all possible operational exceptions a block of code might generate, which I don't think is feasible without slimming your `try` blocks down to a single operation, which loses a primary proposed benefit of try/catch in reduction of error handling boilerplate.
 
 ### What's to be done?
 
-At the moment, I'm not sure how this is going to play out. I'm sticking to ES5 and callbacks for now. I think exceptions should represent programmer errors and never be used for control flow nor for operational errors. That's why they have stack traces, and that should be their sole purpose. But I'd love to hear your thoughts and suggestions, so post a comment here via disqus if that's your thing or take it to twitter or hackernews etc.
+At the moment, I'm not sure how this is going to play out. I'm sticking to ES5 and callbacks for now. I think exceptions should represent programmer errors and never be used for control flow nor for operational errors. That's why they have stack traces, and that should be their sole purpose. But I'd love to hear your thoughts and suggestions, so post a comment here via disqus (click "Show Comments" below) if that's your thing or take it to twitter or hackernews etc.
