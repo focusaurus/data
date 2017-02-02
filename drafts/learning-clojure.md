@@ -148,3 +148,7 @@ In this post I want to chronicle my learning of Clojure from the beginning.
 
 #Monday, January 11, 2016 07:40 AM MST
 * http://stuartsierra.com/2016/01/09/how-to-name-clojure-functions
+
+
+# 2017-01-04T08:00:58-0700
+- http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20
