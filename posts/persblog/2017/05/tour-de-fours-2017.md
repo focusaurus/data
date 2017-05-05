@@ -1,5 +1,3 @@
-# Tour de Fours 2017
-
 May 4, 2017. Star Wars Day. May the fours be with you.
 
 Climb every 4-spot bouldering problem at The Spot Gym in a single session.
