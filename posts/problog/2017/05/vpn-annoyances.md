@@ -5,5 +5,7 @@ I've recently started using a VPN all the time (at least as much as possible). M
 - NameCheap wouldn't let me log in. Site loaded but gave me error messages AS IF my password was wrong, which it wasn't, which caused me to change it several times, which didn't work, which caused me to open a support case wherein they asked if I was using a VPN told me to disconnect. What. The. Actual. Fuck? They seem to have since made this less-terrible but still WTF?
 - Craigslist just straight up blocks all PIA exit IPs. Total dead end.
 - PIA seems to not be that good about reconnecting when you close your laptop and open it in a different wifi network. The icon still shows it is connected but it is in fact not and you have to manually disconnect and reconnect to get back online.
+- Google Drive does not seem to sync/connect when the VPN is active
+- NetFlix geolocates your IP and restricts your access to content based on that country. So you see different titles available when VPNed verses not.
 
 Any pro tips to help out with this?
