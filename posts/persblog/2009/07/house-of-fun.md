@@ -4,6 +4,6 @@ Ownership feels nice. It's control. There were a bunch of long and questionable 
 
 Unfortunately the exit process of the last (last!) apartment hit some problems. My crappy bike and my landlord's crappy bike got stolen from the back yard (behind a tall solid fence) on the day before move out. I even tried to put my bike on my bike rack and take it to the new place but it didn't fit so I left it one more day and it got jacked. We also had the last of several plumbing backups we have had in that apartment, which created an annoyance and issue to be argued over with the landlords. Oh well.
 
-I also just want to again note that [Imogen Heap is just so adorable](http://www.youtube.com/watch?v=EWwSJh2vk4s). Her new album Ellipse comes out August 24\. Can't wait.
+I also just want to again note that [Imogen Heap is just so adorable](https://www.youtube.com/watch?v=EWwSJh2vk4s). Her new album Ellipse comes out August 24\. Can't wait.
 
 Later tonight I will bust out the bari sax for the first time in a long time and wail downstairs. It will be loud. No one will care. Mission accomplished.

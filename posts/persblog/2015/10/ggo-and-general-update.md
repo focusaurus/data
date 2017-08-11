@@ -4,4 +4,4 @@ The past few months Gora Gora Orkestar has been on a gigging rampage. We've been
 
 I've been trying to boulder regularly at The Spot. Here's a video of my first 4+ send.
 
-<youtube href="https://www.youtube.com/embed/-3_D9AbSYSo"/>
+![youtube](https://www.youtube.com/embed/-3_D9AbSYSo)

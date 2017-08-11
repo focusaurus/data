@@ -2,4 +2,4 @@ OK, finally here's the video of my aerial fabric performance from our "Christmas
 
 ![youtube](https://www.youtube.com/embed/L8wT_uDPyHo?list=PLstaMPf4_9pFv2q_t6DzKk381grwdVxpQ)
 
-[Here is the full playlist for the show](http://www.youtube.com/playlist?list=PLstaMPf4_9pFv2q_t6DzKk381grwdVxpQ) if you want to see the other acts. It was really entertaining and I think given that it was a student show, the audience was really enjoying it.
+[Here is the full playlist for the show](https://www.youtube.com/playlist?list=PLstaMPf4_9pFv2q_t6DzKk381grwdVxpQ) if you want to see the other acts. It was really entertaining and I think given that it was a student show, the audience was really enjoying it.

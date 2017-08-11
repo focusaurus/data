@@ -6,7 +6,7 @@ Now, about this second airbnb room. It's in a big hacker live/work space called 
 
 ![hacker warehouse](/photos/california_january_2011/020_warehouse.jpg)
 
-Monday I went out to dim sum for lunch with my two main US-based QA engineers, Bill and Tony. They are both originally from Taiwan. I tried two completely new foods: chicken feet and jellyfish. We also ate the usual assortment of dumplings (shrimp dumplings are my favorite), and the main dish was lobster with noodles. It was really fun, and it turns out they both carry enormous [Costanza wallets](http://www.youtube.com/watch?v=yoPf98i8A0g).
+Monday I went out to dim sum for lunch with my two main US-based QA engineers, Bill and Tony. They are both originally from Taiwan. I tried two completely new foods: chicken feet and jellyfish. We also ate the usual assortment of dumplings (shrimp dumplings are my favorite), and the main dish was lobster with noodles. It was really fun, and it turns out they both carry enormous [Costanza wallets](https://www.youtube.com/watch?v=yoPf98i8A0g).
 
 ![Costanza wallets](/photos/california_january_2011/041_costanza_wallets.jpg)
 

@@ -10,6 +10,6 @@ I met up with a group of other Boulderites who had rented a condo for the weeken
 
 Sadly, I forgot my new snow pants at home, which prompted my companions to sing "He's a Jeans Skier" to the tune of "Dream Weaver" and inquire why I wasn't wearing an NFL jacket.
 
-There are more [photos here](http://www.peterlyons.com/app//photos?gallery=winter_2008) and a [video here](http://www.youtube.com/watch?v=K3TfZ0yfcD0).
+There are more [photos here](http://www.peterlyons.com/app//photos?gallery=winter_2008) and a [video here](https://www.youtube.com/watch?v=K3TfZ0yfcD0).
 
 Today I'm looking forward to some much-needed yoga and saxophone and then next week work is going to get busy for a while.
