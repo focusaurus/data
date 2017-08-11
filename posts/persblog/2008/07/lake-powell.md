@@ -10,6 +10,8 @@ As I float back I see another pair of kayakers making the struggle. I rest a whi
 
 So I made a [google map](http://maps.google.com/maps/ms?f=d&ie=UTF8&hl=en&msa=0&msid=109710505866305463964.0004530f5f18266ec6f0c&ll=37.008653,-111.47707&spn=0.124468,0.276375&t=p&z=13) of where I think the various points of interest on my map were as drawn by the boat rental teller. These are all the blue dots. The little blue line is about the path I took. You will have to zoom in a bit to even see the kayaking route line. Not sure if the points of interest are actually reachable without the wind of it was done in pure jest.
 
-Here's a silly video that might give you a sense of it: <object width="425" height="344" data="http://www.youtube.com/v/T4NKHQs1318&amp;hl=en&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash"><param name="movie" value="http://www.youtube.com/v/T4NKHQs1318&amp;hl=en&amp;fs=1&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></object>
+Here's a silly video that might give you a sense of it:
+
+![youtube](https://www.youtube.com/embed/T4NKHQs1318)
 
 After the kayaking I went to one of the few swimming beaches and took a nap then a brief swim, then headed home to Flagstaff.

@@ -16,7 +16,7 @@ Next stop was [Bossa Nova](http://www.barflymag.com/bar/bossa-nova.html) to get 
 
 Then we headed back for the March Fourth show.  March Fourth is basically part marching band, part side show, part burlesque.  At this show there was no marching as they were on stage, but they had dancers and stiltwalkers running around and hula hooping and so forth.
 
-<object width="425" height="344" data="http://www.youtube.com/v/0jsHz4yWknY&amp;hl=en&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash"><param name="movie" value="http://www.youtube.com/v/0jsHz4yWknY&amp;hl=en&amp;fs=1&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></object>
+![youtube](https://www.youtube.com/embed/0jsHz4yWknY)
 
 ![March Fourth](/photos/portland_2008_part_1/060_march_fourth.jpg)
 

@@ -2,6 +2,6 @@ Things have been humming along here in "normal" mode for a few weeks. This sprin
 
 Last week on Thursday was another Denver Hack Nite meetup. Attendance was a bit low but we enjoyed hanging out on their outdoor patio and relaxing. I got some good input on my [Othenticate](http://othenticate.com) project. On Saturday there was a guided tour of bouldering crags on Flagstaff mountain, which was great for me since I don't know where anything is. Sunday I met up with Stephanie and Terry to boulder indoors at the spot. We did some fun routes, including the video below, but I eventually ended up tearing a callous off my hand which took a few days to heal before I could climb again.
 
-<iframe width="480" height="390" src="http://www.youtube.com/embed/r0i2mYEOvSw?rel=0" frameborder="0" allowfullscreen=""></iframe>
+![youtube](https://www.youtube.com/embed/r0i2mYEOvSw)
 
 I've been practicing for The Afronauts debut Boulder gig this Wednesday on Pearl St and coding away on Othenticate. Made good progress in the past two days, which is nice. I might start working on my hexayurt for Burning Man later this afternoon. I've also made travel plans to spend some time in New Jersey at the end of July, so I'm looking forward to that. Still need to meet my new nephew Daniel in person. I'm out on my deck now under my shade umbrella enjoying the summer weather. That's all for now.

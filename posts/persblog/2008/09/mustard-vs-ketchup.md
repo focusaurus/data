@@ -44,7 +44,7 @@ Hopefully, that gives you some idea. For me, the one moment that really captured
 
 ![Mustard vs. Ketchup](/photos/burning_man_2008/116_bm_thunderdome.jpg)
 
-<object width="425" height="344" data="http://www.youtube.com/v/Fvnxv817ia8&amp;hl=en&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash"><param name="movie" value="http://www.youtube.com/v/Fvnxv817ia8&amp;hl=en&amp;fs=1&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></object>
+![youtube](https://www.youtube.com/embed/Fvnxv817ia8)
 
 Other notable events include the Battle of the Marching bands in Center Camp. There were five bands including March Fourth from Portland, who kick ass. Also, on Thursday a bunch of folks from my camp designated as the "First Unitarded Congregational Chorus" sang back up while [The Wet Spots](http://www.wetspotsmusic.com/), also camping at Freedom Community, performed.
 

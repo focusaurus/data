@@ -2,7 +2,7 @@ Allow me to pose a question. What could be better than roller derby?  That's ri
 
 ![Roller Derby](/photos/bend_2008_part_1/110_roller_dolls.jpg)
 
-<object width="425" height="344" data="http://www.youtube.com/v/N1zogFj34Qw&amp;hl=en&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash"><param name="movie" value="http://www.youtube.com/v/N1zogFj34Qw&amp;hl=en&amp;fs=1&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></object>
+![youtube](https://www.youtube.com/embed/N1zogFj34Qw)
 
 Today I walked up the nearby [Pilot Butte](http://en.wikipedia.org/wiki/Pilot_Butte_(Oregon)) and got a nice look across the town.
 

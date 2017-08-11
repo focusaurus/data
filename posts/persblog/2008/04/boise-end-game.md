@@ -6,4 +6,4 @@ The [Boise photos are here](http://www.peterlyons.com/app/photos?gallery=boise_2
 
 Here's my favorite bouldering route at the local rock gym. Gratuitous pull-ups included at no extra charge.
 
-<object width="425" height="344" data="http://www.youtube.com/v/kNBU7YSvNxQ&amp;hl=en&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash"><param name="movie" value="http://www.youtube.com/v/kNBU7YSvNxQ&amp;hl=en&amp;fs=1&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></object>
+![youtube](https://www.youtube.com/embed/kNBU7YSvNxQ)

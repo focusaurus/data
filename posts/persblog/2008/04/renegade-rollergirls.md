@@ -16,4 +16,4 @@ So, during the three 15-minute periods, the action is called over the loudspeake
 
 ![Renegade Rollergirls!](/photos/bend_2008_part_1/085_rollergirls_shutter.jpg)
 
-<object width="425" height="344" data="http://www.youtube.com/v/VNJZwl4fWYQ&amp;hl=en&amp;fs=1&amp;rel=0" type="application/x-shockwave-flash"><param name="movie" value="http://www.youtube.com/v/VNJZwl4fWYQ&amp;hl=en&amp;fs=1&amp;rel=0"><param name="allowFullScreen" value="true"><param name="allowscriptaccess" value="always"></object>
+![youtube](https://www.youtube.com/embed/VNJZwl4fWYQ)
