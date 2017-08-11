@@ -1,0 +1,5 @@
+Today I went to the Navajo Arts and Culture festival at the Museum of Northern Arizona, which is just around the corner from my house. I did a quick tour. There were some interesting paintings, but it was mostly weaving and jewelry which were not too interesting to me. The museum does have a nice exhibit about the Therizinosaur, a new species of dinosaur that they discovered in Arizona recently. After that I drove down to check out Sedona, which is about 50 minutes south of Flagstaff. The road takes you through some gorgeous scenery including Oak Creek Canyon and [Slide Rock State Park](http://www.gatewaytosedona.com/article/id/252/page/1). I walked around the touristy streets and shops in Sedona a bit, and had a nice long lunch with phone calls to my parents and Thorp. I waited out a thunderstorm, then checked out a few of the nearby lookout points with views of the red rock formations.
+
+![sedona](/photos/flagstaff_2008_part_2/030_sedona.jpg)
+
+The rest of the [photos are here](http://peterlyons.com/app/photos?gallery=flagstaff_2008_part_2).

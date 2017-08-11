@@ -1,0 +1,1 @@
+[More photos of the new house are here](/app/photos?gallery=summer_2009&photo=100_house_front).

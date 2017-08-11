@@ -1,0 +1,1 @@
+This blog was originally on livejournal. To see this poll, [click here](http://focusaurus.livejournal.com/15861.html).

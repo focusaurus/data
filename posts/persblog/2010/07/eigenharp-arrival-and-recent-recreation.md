@@ -1,0 +1,17 @@
+OK, so it's been three weeks or so since I posted. Over July 4th weekend we had a nice dinner at the Pizzis with some of Elise's soccer friends who were fun. The following Tuesday was a great [Boulder Denver New Tech Meetup](http://www.bdnewtech.com/). They had a whole bunch of local non-profit groups present for two minutes about what they do and what technology problems they have. Then they spread out to different classrooms and the tech community went and helped them out. It was a really great event. I hooked up with [Boulder Community Computers](http://www.bococo.org) and have been volunteering there a little bit in the past few weeks.
+
+Two weekends ago I got Michale a used mountain bike and surprised her at breakfast on Saturday. We took it to the bike shop since it turned out to have a bent front wheel, and then we went on a long ride out to Lafayette and back along a nice bike path. We road under a flooded underpass and got our shoes wet though.
+
+Last week on Thursday my [Eigenharp Tau](http://www.eigenlabs.com/tau/) finally arrived. I ordered it on the very first day it was available and it took a month to arrive. I'm excited about the possibilities but I'm still just working on figuring out the basics. It doesn't come with much documentation at all, so its a bit mystifying, especially considering the interface consists of mostly 95 unlabeled buttons. We'll see how it goes. So far I've figured out how to change sounds and scales and I can play Happy Birthday with unintented pitch bends.
+
+![Eigenharp Tau](/photos/summer_2010/066_eigenharp_tau.jpg)
+
+This past weekend Michale and I did a fairly spontaneous camping trip up to Frisco to escape the heat. We headed up to the mountains after I finished setting up a network build system for Boulder Community Computers. We were able to find a decent car camping site and secure a space close to Dillon Reservoir. Then we took the bikes out and biked along the path between Frisco and Breckenridge. It was nice to be by the reservoir but I think it fostered a lot of mosquitos, so now we're each nursing a dozen or so bites. We did "restaurant camping" as it were. I didn't have the motivation (or equipment) to pack and cook our own food, so we just headed into downtown Frisco for dinner Saturday and breakfast Sunday. Sunday we biked about twenty miles round trip between Frisco and Keystone, which was a lot of fun and I'm pretty sure it's the longest bike ride I've ever done. I think Michale really liked the experience overall, especially the bird watching.
+
+![Biking around Dillon Reservoir](/photos/summer_2010/083_frisco_biking.jpg)
+
+Sunday evening back in Boulder I met up with some friends for a pot luck picnic and then we heard the [Colorado Music Festival](http://coloradomusicfest.org/) orchestra play some nice Brahms pieces. It was another really fun and varied weekend.
+
+Tonight is my little "You Film Fest" party #3 where we're going to watch some [Ignite Boulder](http://igniteboulder.com) talks. Then Michale is off to Seattle to visit her peeps this weekend and next week I'm headed to Vermont to visit my peeps.
+
+[Photos from some of these events are here](/app/photos?gallery=summer_2010&photo=044_pearl_st_bluegrass).

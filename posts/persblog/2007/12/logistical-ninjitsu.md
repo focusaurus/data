@@ -1,0 +1,7 @@
+It's "O Dark Thirty" here in Santa Fe as my parents' friend often says harking back to his West Point days.  In a moment I'll put the rest of my stuff into the green machine and head up to Boulder, Colorado.  I've certainly enjoyed the stay here.  The house was perfect.  I don't think the town is a good match for me long term.  I'm still adjusting to non-NYC realities. In Santa Fe, in 6 months I would have eaten at every restaurant in town.  I guess it's hard to concretize the fact that NYC is around 114 times bigger. :-)
+
+Anyway, I had a funny moment yesterday as I was packing up the car.  An older gentleman across the street hollered out "What part of New Jersey are you from?".  After a brief exchange, it turns out we both went to Cranford High School and grew up in the small town of Cranford, NJ.  He was class of 1957 or thereabouts and I'm 1997.
+
+So the good news is that barring any credit check failures I've found a new tenant for my Hoboken apartment, which means I can move out fully at the end of this month and be done with the lease.  That will simplify things a lot.  And this was all done remotely over [craigslist](http://craigslist.org) with some cooperation from my current subtenant, so that's a big relief.  It also means I don't have to flyback again at the end of February just to move out.
+
+Anyway, logistics indicate I finish packing up and hit the road ASAP, so happy holidays, folks!

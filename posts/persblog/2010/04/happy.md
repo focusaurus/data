@@ -1,0 +1,7 @@
+I'm reading and enjoying [Pragmatic Thinking and Learning](http://www.pragprog.com/titles/ahptl/pragmatic-thinking-and-learning) by Andy Hunt. I've got a new project starting and some other exciting changes happening at work, so I was pretty restless last night. I finally gave in at four AM and just got out of bed and started drawing [mind maps](http://en.wikipedia.org/wiki/Mind_map) for a few projects. I did eventually get back to sleep after fully draining and redraining all my RSS feeds and facebook updates. I slept late and feel pretty rested.
+
+This morning I cooked a delicious breakfast. An omlette with grilled chicken, baby swiss cheese, and red potatoes. I had Ani DiFranco and Chick Corea in my Sonos/Rhapsody playlist and I experienced a strong moment of contentment and gratitude. Today I'm going to bike from Louisville to Boulder (for the first time, it's shameful, I know) and hit the BRC for some weights and climbing. Tomorrow will be another great breakfast at Watercourse with Michale and her Seattle friend Monika who is visiting Denver this weekend.
+
+I am happy. This is all I want out of life. Any improvement above this is just gravy. :-)
+
+![breakfast](/persblog/images/402_breakfast-2010-04-17.jpg)

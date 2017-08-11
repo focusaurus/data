@@ -1,0 +1,1 @@
+Here's a link to [my article on code conventions](/code_conventions). Feel free to post comments here.
