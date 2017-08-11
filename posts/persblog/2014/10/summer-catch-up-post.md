@@ -8,11 +8,11 @@ Also in September both Shannon's parents and my parents came out for separate vi
 
 Also in August I was doing some more work on SparkRelief, trying to get a major overhaul I've had in progress since the winter finally deployed to production. During one of our work sessions a cup of tea was spilled directly across my macbook's keyboard. It resulted in unrepairable damage with several keys broken. After a lengthy diagnostic process I decided to just get an external bluetooth keyboard for it and give it to my friend Clarice so her daughters could use it. I got a new macbook pro 15", which is very nice although it would have been great if my 2010 model lasted long enough for the next generation of Intel Broadway chips to come out.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157648763050952/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157648763050952/)
 
 This weekend I was in Philadelphia for my cousin Andrew's wedding. It was the fanciest wedding I have been to yet. It was great to see all the family and celebrate. After the wedding I took the train up to Poughkeepsie to visit with Chris and Liz in their new house. On Monday Chris and I hiked Mount Beacon then Liz joined us for dinner crepes and a special excursion to The Matchbox Cafe for artisan cookies, which we brought home and ate in the back yard on the cedar swing bench with a fire going in the fire pit. Yesterday we did a group hike all around Mohonk, lunch at the fancy buffet, and then a rock scramble. Then we checked out the gardens, got afternoon tea and cookies, and sat on the rocking chairs on the enormous porch. That setting is so fantastic.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157648708299106/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157648708299106/)
 
 Today it was all travel. Chris dropped me at the Metro North station in Poughkeepsie and it was Metro North to Grand Central, MTA to Penn Station, NJ Transit to Trenton, and Septa to the Philadelphia airport. I'm on the plane now and I've been in transit for 11 hours so far with probably 4 to go.
 

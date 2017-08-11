@@ -10,7 +10,7 @@ In Portland we checked in with our hosts, friends of Kate's, then went to watch 
 
 The next morning it was up to Seattle where we checked in with our hosts before Thursday night's Revenge of the Band Nerds at Nectar Lounge, which was a whole lot of fun. In the afternoon we went and had delicious Cuban sandwiches and then went to the beach. We walked along the coast and all played frisbee, which was one of my favorite moments.
 
-<youtube href="//www.youtube.com/embed/eJMyq8M_abI"></youtube>
+![youtube](//www.youtube.com/embed/eJMyq8M_abI)
 
 Friday we went to Pike's Place Market and had yummy seafood for lunch. The Friday night performances in Georgetown were really fun and I enjoyed watching The m9, Environment Encroachment, Brass Band Mission, and Orkestar Zirconium.
 
@@ -20,4 +20,4 @@ Saturday we played in the Solstice parade, which was a lot of waiting. Afterward
 
 Monday we left in the van headed back to Boulder.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157645234728466/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157645234728466/)

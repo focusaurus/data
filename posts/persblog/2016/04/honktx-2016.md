@@ -30,4 +30,4 @@ Monday I got up at 6:40 AM and hopped in the outdoor shower at our host's house.
 
 Overall it was a really fun Honk festival, and no major arguments and no one quitting the band! I think we are planning to forgo upcoming Honk fests so this may be our last one, and it was a good one.
 
-<flickrshow href="https://www.flickr.com/photos/focusaurus/albums/72157666564918096"></flickrshow>
+![flickr](https://www.flickr.com/photos/focusaurus/albums/72157666564918096)

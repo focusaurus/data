@@ -1,4 +1,4 @@
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157631074604116/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157631074604116/)
 
 Tuesday Chris and I had a jam-packed day in the Hudson Valley. We drove up to Mohonk Lake, which is quite spectacular, and hiked around the trails for a few hours. We enjoyed the views from the tower and were not bothered by the light rain that was falling steadily. We walked along several paths and past the lily pond.
 We had lunch at the Mohonk Mountain House main dining room buffet, which was pretty extravagant. I had two enormous plates plus a full dessert plate including red velvet cake, key lime tort, canoli, a no-bake chocolatte cookie, a butterscotch cookie, and chocolate mousse. After lunch Chris drove us up to Opus 40 while I passed out in a deep food coma.

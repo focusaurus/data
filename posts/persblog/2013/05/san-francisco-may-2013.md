@@ -40,4 +40,4 @@ Saturday afternoon I took a much-needed nap and then walked around the mission q
 
 Sunday morning just enough time for a quick breakfast sandwich then BART back to SFO to head home.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157633528541450/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157633528541450/)

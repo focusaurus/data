@@ -46,4 +46,4 @@ Tuesday I took the bus up to Flipnotics coffee and worked there in the morning. 
 
 Overall, this was basically a band geek's dream festival and just the tiniest taste of rock star glamour. All of the musicians were really fun, friendly, and goofy. We had our share of surprises and adventures, too, with Alice's trumpet and Steve's tuba having problems in addition to my bike chain breaking. However, Stephen found a hundred dollar bill in his thrift store shirt pocket, which was great! I liked visiting Austin a lot and feel like I got to see most of the key neighborhoods. It was much colder at night than I was expecting so I could have used another layer of clothes but was mostly fine with my windbreaker.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157633097039582/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157633097039582/)

@@ -8,19 +8,19 @@ This past weekend has been jam-packed.  Friday I worked until around 6pm and the
 
 But not long there.  Up again at 6:30 am to dress for a road trip down to Manitou Springs with Brenda for the [Emma Crawford Coffin Races](http://community.manitousprings.org/events/17th-annual-emma-crawford)  which is their odd mountain town festival analogous to Nederland's Frozen Dead Guy Days.  We stopped at our local Lamar's donut shop for some sugary road fuel and then made awesome time down to Colorado Springs.  Brenda showed me around her old town and we drove by the house she owns there.  Then we headed to Manitou and visited her friends Lorien and Nigel.  They have a gorgeous home there that they have been beautifully remodeling (that's polite conversation for "totally pimping out") over the past four years.  It's decked out with lots of windows, a huge billiards room, several large decks, outdoor hot tub, conservatory, spiral stairs to the master suite, etc.  We had mimosas and fresh fruit.  We were joined by another couple and then walked a couple of miles in to town for the coffin races.  We missed the parade, which was a shame, but we did catch all of the races.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157628015986762/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157628015986762/)
 
 After the races we had fun in the arcade playing some old dime arcade games.  Brenda trounced me in Pac-man, which was humiliating, but I redeemed myself with Ms. Pac-man.  Then we grabbed a quick snack before meeting up again with the crew at a wine bar.  Brenda ordered a fancy pumkin drink with whipped cream.  After a little chatting it was time to walk back to the house.  I had to be back in Boulder for Uncle Bill's birthday dinner at [The Kitchen](http://thekitchencafe.com/index.shtml).  I had my occasional hankering for beef the past few weeks so I ordered the Colorado skirt steak.  It was pretty tasty but honestly the fries and homemade ketchup seemed even better.  After that I went back to Louisville and hung out with Brenda some more, working up our Guitar Hero game.
 
 Today I got a late start and grabbed a breakfast quesadilla at Paul's Coffee.  It was good, but the goddamn teenage counter staff (again) couldn't seem to hold down the complexities of the "1. order 2. pay 3. actually give customer the food" sequence.  I ran some quick errands then drove up to Longmont for a Halloween jam party at Matt's farm.  It was the Stedfast group of punk rock teenagers and the Turtle Dove group of 30-something rock wannabes, and our respective cohorts.  It was a gorgeous warm day.  Stedfast played a set of their hilarious punk rock covers, including the shortest song I've ever heard (approx 13 seconds).  The Byron and Logan did some of their mostly-original drums/bass jammies under the name "Gort vs Goom".  Then Turtle Dove played our set.  Here are some photos and videos.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157627891409843/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157627891409843/)
 
-<youtube href="http://www.youtube.com/embed/rEfGImX5iWI"></youtube>
+![youtube](http://www.youtube.com/embed/rEfGImX5iWI)
 
-<youtube href="http://www.youtube.com/embed/icPDULPqEqU"></youtube>
+![youtube](http://www.youtube.com/embed/icPDULPqEqU)
 
-<youtube href="http://www.youtube.com/embed/CQ3FnJC2gi8"></youtube>
+![youtube](http://www.youtube.com/embed/CQ3FnJC2gi8)
 
 A small bit of technical note: I've started using [Flickr](http://flickr.com) to manage my photos.  My home-grown photo management system has served me well for the past decade, but I've grown tired of maintaining it and futzing too much with EXIF metadata and JSON files, so up to Flickr it goes.
 

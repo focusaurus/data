@@ -6,7 +6,7 @@ Saturday we road along the Colorado River on Kokopelli, Mary's, and Steve's. It 
 
 After the ride Saturday we hiked around the monument a bit before heading in to town for dinner at the local pizza shop, which was very tasty. Back at camp as the sun started to set and we were milling around it finally started to rain so we all had to retreat to our tents and spend the next 12 hours or so getting rained on. It was annoying and I didn't sleep much but my tent mostly held fast so I didn't get wet.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157644690038573/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157644690038573/)
 
 Sunday morning we just packed up our soggy gear and then got back on the road. The ride back was pretty treacherous as it was snowing big wet snow all through the mountains and parts of I-70 were being shut down. We heard stern warnings on  the radio that the exact spots we were driving were terrible, but we were in a Land Rover with pretty good capabilities and my carmates wanted to power on even though I suggested we exit at Dillon and spend the night at my friend Julia's house.
 

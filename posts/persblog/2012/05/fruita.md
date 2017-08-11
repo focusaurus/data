@@ -39,7 +39,7 @@ Then we piled back in the cars and drove to Grand Junction for lunch at a brewer
 
 During the trip, one of the bikers named Rhonda and I were chatting about the heaviness and crappiness of my bike, and she has an old Specialized Stump Jumper that is in disrepair following a crash, which she has now nicely donated to me to try to fix up and get running. So that will be my bike repair educational project sometime in the next month or two, hopefully.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157629619218366/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157629619218366/)
 
 OK, the week prior to that (starting Monday, April 16) was a mostly normal busy week with two rehearsals and aerials. I also was trying to get into mountain biking shape so Monday night Lewis and I biked Doudy Draw to Spring Brook Loop. I biked to the trailhead from my house after work, which was about 18 miles round trip on road and another 5 or so on trails. It took until about 8pm. We saw gorgeous views with the Sun low in the sky as we came to the vista at the top of Spring Brook Loop. Man, Lewis is tall and fast though. He was blowing me away.
 

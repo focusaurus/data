@@ -26,4 +26,4 @@ Sunday all day was packing up. I got started on the stage pretty early and many 
 
 Overall I had a blast and I'm looking forward to next year.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157634055195411/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157634055195411/)

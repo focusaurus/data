@@ -1,4 +1,4 @@
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157631042356708/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157631042356708/)
 
 Last Friday night I departed for our annual family reunion on my Mom's side of the family. I parked at the RTD McCaslin park and ride, got some dinner at Whole Foods, tried the self-serve froyo place in that shopping center, and caught the bus to DIA. I flew a red eye that landed in Newark at 5 AM. On the plane I coded my first NPM module: [writers-digest](https://github.com/focusaurus/writers-digest).
 

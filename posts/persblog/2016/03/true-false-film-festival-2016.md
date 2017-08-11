@@ -12,4 +12,4 @@ Between Saturday sets we had a nice brunch on a rooftop patio nearby. Saturday n
 
 On the way back we made fewer stops and arrived home around 1AM so folks could make it in to work Monday. We really had a blast. All of the festival staff and volunteers were exceedingly nice and supportive, and overall it's a really well-run operation.
 
-<flickrshow href="https://www.flickr.com/photos/focusaurus/sets/72157665396184192"></flickrshow>
+![flickr](https://www.flickr.com/photos/focusaurus/sets/72157665396184192)

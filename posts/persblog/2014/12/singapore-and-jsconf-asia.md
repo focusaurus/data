@@ -28,7 +28,7 @@ We were glad to be home and looking forward to Thanksgiving.
 
 Here's my "Best of SE Asia Trip" slideshow.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157647341676134/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157647341676134/)
 
 ### Top quotes of the SE Asia Trip with Shannon Hughes
 

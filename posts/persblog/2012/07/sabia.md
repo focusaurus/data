@@ -40,4 +40,4 @@ Yesterday and today I basically stayed home and cranked away on my todo list. I 
 
 Today I completed the first deliverable of my consulting project, cleaned the house, had some conversations with members of The Afronauts, and am now headed into the studio to practice my piano part for Sabia. I had a local pianist transcribe the Morelenbaum/Sakamoto arrangement of <a href="http://rd.io/x/QVX_8zdwiWg">Sabia</a>. Jas, Andrea, and I are going to play it. I'm going to attempt to play the piano part. The intro and outro might be too difficult, but most of the tune is comping chords in a simple rhythm that seems like it should be doable. It's a gorgeous tune, and even Jeremy the guy I had transcribe it was saying how beautiful the performance is. I'm looking forward to rehearsing it when Jas comes back from Aspen in two weeks.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157630429121060/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157630429121060/)

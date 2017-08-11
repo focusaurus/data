@@ -6,4 +6,4 @@ We ate breakfast in the hotel, then walked to Chinatown. Shannon guided us throu
 
 I was feeling pretty overstimulated (Chinatown Bangkok is bustling!) and jet lagged so we cabbed it back to the hotel to rest before dinner. We at a delicious meal at a higher-end Thai restaurant a few blocks from the hotel. We had some shrimp & pea little appetizer mini-cake thingies, a crab meat dish, and a chicken coconut curry with sticky rice. All very tasty.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157648542606070/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157648542606070/)

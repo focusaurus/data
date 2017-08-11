@@ -6,4 +6,4 @@ The show and music were really great. The organizer had flown in some ringer acr
 
 And since DSotM is not a very long album, the main show was done by 11:10 PM, which was nice. I got to see some of my aerials friends and a few other surprises such as Rom from CHAOS, Darrel from Burning Man, Spike from Dojo4 code and coffee, and Ashlyn from couch surfing. Ally is back from her aerials and figure skating gig at Dollywood so I heard a bit about that and her plans for her next show. Overall, I had a really fun time and think Deena did an awesome job putting it together.
 
-<flickrshow href="https://www.flickr.com/photos/88096431@N00/sets/72157632727737774/"></flickrshow>
+![flickr](https://www.flickr.com/photos/88096431@N00/sets/72157632727737774/)
