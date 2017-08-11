@@ -26,7 +26,7 @@ Sunday we did the parade and the all-band review. Then we headed to Banger's for
 
 So Monday morning we had a corporate gig to play at the Energy Thought Summit conference downtown. Here's a video of Apple co-Founder and legendary geek Steve Wozniak arriving in a Telsa and riding a Segway to the stage while GGO plays the music from Super Mario Brothers.
 
-![youtube](//www.youtube.com/embed/yIShfqvIhFw)
+![youtube](https://www.youtube.com/embed/yIShfqvIhFw)
 
 However, we found out that Michael never came home Sunday night and had left his phone and his bass drum at our host 's house. We were able to get a last-minute bass drum sub for the gig, but then we all started to get increasingly worried about Michael's whereabouts with each passing hour into the day.
 
