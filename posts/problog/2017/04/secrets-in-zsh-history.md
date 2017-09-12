@@ -15,7 +15,7 @@ So I feel pretty good that this is securely off disk. I would copy and paste thi
 
 What I came up with is this:
 
-`eval $(pbpaste)`
+`eval $(pbpaste;echo)`
 
 Which I set up as a keyboard macro so I type `epb,,`, keyboard maestro detects the double comma and looks up the proper snippet to expand the text. The eval tells the shell to execute the code and the pbpaste bit outputs the text I just copied from 1password.
 
@@ -25,4 +25,10 @@ It's still not ideal as stuff lives in memory probably longer than it should, an
 
 Got something better to suggest?
 
+
+
 Side note for zsh: `setopt interactivecomments` will avoid annoying errors when you paste snippets with comments into an interactive shell.
+
+**UPDATE (2017-09-12)**
+
+It looks like [aws-vault](https://github.com/99designs/aws-vault) is a handy tool for this as well. I've started using it on 2 projects and so far so good, but it only handles the AWS creds, not randow other project vars.
