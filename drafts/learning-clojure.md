@@ -152,3 +152,7 @@ In this post I want to chronicle my learning of Clojure from the beginning.
 
 # 2017-01-04T08:00:58-0700
 - http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20
+
+
+# 2017-10-14T10:07:08-0600
+- https://purelyfunctional.tv/
