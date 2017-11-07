@@ -8,4 +8,11 @@ https://github.com/focusaurus/rust-basics/blob/master/anagram/src/lib.rs
 
 I was pleased that RC encourages naps and plan to nap at least once a day. There are also 2 people from the F2 batch doing some rust and a bunch of folks knowledgeable about rust on the RC chat server which I think will be great because getting in-person help can save tons of time with hard-to-google rust type conversion errors such as I had tonight which amounts to "I have `Vec<&&str>` but I need `Vec<&str>`" which as you might predict is tough as a web search term.
 
+I found these two good blog posts in my search:
+
+- [http://hermanradtke.com/2015/06/22/effectively-using-iterators-in-rust.html]()
+- [http://hermanradtke.com/2015/05/06/creating-a-rust-function-that-accepts-string-or-str.html]()
+
+I also learned what a Functor is in one of the lightning talks and no it's not as hard as it sounds but oh man it is nothing like I what I thought it might be. In fact, after the talk I asked a question that amounts to "Wait so which of your examples is actually the functor itself: A or B" and the answer was "neither, it's C" and that was very surprising.
+
 Today was I believe the one and only structured day at RC. Starting tomorrow it's entirely self-directed.
