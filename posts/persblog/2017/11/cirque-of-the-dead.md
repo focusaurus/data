@@ -8,4 +8,6 @@ Monday was arduous travel to New York. I took a lyft to the T station but the dr
 
 Once on the T I was able to lug my sax and bags and do my transfer and spit myself out at the N. Quincy Station stop. Here is where my Chinatown bus to NYC was to depart. The bus was unmarked but I did manage to get on the right one. Once we got into NYC proper traffic was terrible so we arrived about 90 minutes later than scheduled. From there it was subway into Carroll Gardens and an AirBnb there.
 
+![flickr](https://www.flickr.com/photos/focusaurus/albums/72157689202862724)
+
 This week I've been primarily hunting for housing, which I believe I've just secured. If all stays as planned, I'll be renting a room in Park Slope with good Q train access to Recurse Center and a very short walk to Brooklyn Boulders for climbing. But I need a few more AirBnb nights than I initially planned so we'll see how those logistics go.
