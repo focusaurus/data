@@ -1,0 +1,3 @@
+So I was shopping around for live music and found a klezmer show at Barbès which is a short walk from my apartment, and it featured Ben Holmes - my old friend and roommate from summer music camp! It was all new original compositions and it was great. I don't think I've seen Ben in at least 6 years. I was also stoked to see the same venue is where the Slavic Soul Party weekly gig is on Tuesday nights, so I'm definitely going to check that out.
+
+Recurse Center has been really great. It's so nice to be able to buckle down and work on self-motivated stuff all day for many weeks. Tomorrow I hope to practice some sax in a nearby music studio so my chops don't disappear entirely. Also planning to maybe get my initial "BeastIndex" fitness measurement at Brooklyn Boulders.
