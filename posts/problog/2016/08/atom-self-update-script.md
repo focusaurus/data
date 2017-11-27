@@ -1,6 +1,6 @@
 My work setup requires a non-administrator account for normal login. I have sudo access set up for my normal user. For some reason, Atom's autoupdate feature can't seem to deal with this and gets stuck in a loop trying to install updates. So I just scripted it as below:
 
-```sh`
+```sh
 update_atom() {
   local atom="${HOME}Downloads/atom.zip"
   echo -n "downloading…"
