@@ -154,7 +154,7 @@ d08f6b8fd17593f246db4ac6c45a1193 salt/iv for bcrypt
 62837be86c63712896b8e0e7543e367c
 3abd0c0b5ad3e764ea0e4f8ddd7d00ef
 
-00000090 int length = 144 encryptedaes256-cbc output (16x9)
+00000090 int length = 144 encrypted aes256-cbc output (16x9)
 1e60c56ef30d0ff02e07b57bf1464507
 6c32c86c88ecad545ca28424e4739aff
 5895bebd6778e70b6c54b309b9fdb0c9
