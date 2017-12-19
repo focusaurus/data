@@ -16,7 +16,7 @@ The following weekend I saw a long night of music at The Ktichen called "Forever
 
 From there I went to Brooklyn Boulders to do a coaching session with one of their coaches Danny. Main tips were I need to start movements with my feet and move everything in order from feet up through knees and hips and only move my upper body as the last component. We also talked about using drop knees as a primary technique on any overhang. He also showed me some good stretches for my legs which are super tight with low mobility. I feel like there's better techniques available now and I might try to work on that consistently next year. Will be writing up some plans for changes in 2018 soon.
 
-That week I had dinner with my parents, Matt, and Frankie at Cookshop on 10th Ave on Wednesday evening. Thursday evening was my last day at Recurse Center, the "never graduate" ceremony, and the RC holiday party.
+That week I had dinner with my parents, Matt, and Frankie at Cookshop on 10th Ave on Wednesday evening. Thursday morning I got up early to a snowstorm, and met up with another recurser to walk across the Brooklyn Bridge. It was snowing and cold so there was no view of sunrise, but still a cool experience and lots of interesting visuals. Thursday evening was my last day at Recurse Center, the "never graduate" ceremony, and the RC holiday party.
 
 Recurse Center was a really great experience for me. I definitely accomplished my main goal which was to get past the steep part of the rust programming language's learning curve. The community aspect of it I think will be a long-term major thing for me. I haven't really connected to the Denver tech scene partly because I hate driving there, and the Boulder scene is just pretty small.
 
