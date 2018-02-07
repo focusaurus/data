@@ -58,7 +58,7 @@ OK here's how it breaks down.
 0000000b int length = 11
 7373682d65643235353139 string key type = ssh-ed25519
 00000020 int length = 32
-# public key payload32 bytes
+# public key payload 32 bytes
 # probably encoding a point on the ed25519 curve
 3cfe2afb025f46582e502b97f7dfa5a0
 8dea09f87abfa8d5bfcaabf29fbb3695
@@ -71,15 +71,16 @@ a2224bbaa2224bba iv/salt? (Not sure about these 8 bytes)
 0000000b int length = 11
 7373682d656432353531 39 string key type = ssh-ed25519
 00000020  int length = 32
-# public key payload32 bytes
+# public key payload 32 bytes
 # probably encoding a point on the ed25519 curve
 3cfe2afb025f46582e502b97f7dfa5a0
 8dea09f87abfa8d5bfcaabf29fbb3695
 
 00000040 int length = 64
-# 64 bytes private key payload 1
+# 32 bytes private key payload 1
 02a1965d1a2684d50d29f2be0efd8e2f
 ae3c5bb013d06f7818416333955271a5
+# 32 bytes is the public/point again
 3cfe2afb025f46582e502b97f7dfa5a0
 8dea09f87abfa8d5bfcaabf29fbb3695
 
