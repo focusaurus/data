@@ -156,3 +156,7 @@ In this post I want to chronicle my learning of Clojure from the beginning.
 
 # 2017-10-14T10:07:08-0600
 - https://purelyfunctional.tv/
+
+
+# 2018-01-07T11:45:14-0700
+- http://vvvvalvalval.github.io/posts/2018-01-06-so-yeah-about-clojures-syntax.html
