@@ -10,6 +10,8 @@ Just a quick post to point out some fantastic web applications to help you craft
 
 [regexr](http://www.regexr.com/) is also handy although not as polished as RegEx 101.
 
+[Regex Tester](https://extendsclass.com/regex-tester.html) has a nice railroad diagram and color coding.
+
 ## Happy Matching!
 
 Get out there and be glad you may be able to get away without staring at the pages of this book for hours on end.
