@@ -1,12 +1,12 @@
-I've recently been helping a client get their node.js mobile back end API server ready to launch a new service.  In this post I'll outline the guidelines I use when I'm brought in to true-up a problematic node.js codebase.
+I've recently been helping a client get their node.js mobile back end API server ready to launch a new service. In this post I'll outline the guidelines I use when I'm brought in to true-up a problematic node.js codebase.
 
 ## First, triage and repair server basics
 
-Before any real rescue efforts can happen, I need to get the fundamental issues up to a bare minimum of a working project and service.
+Before any real rescue efforts can happen, I need to work through the fundamental issues and get up to a bare minimum of a working project and service.
 
 **Is the code even in a git repository?** I've only encountered the "here's the zip file the previous agency delivered" once, but step one is get the existing codebase without any new modifications into an initial git commit and get it pushed to a git host.
 
-**Does it have README documentation?** Can a new developer get from `git clone` to a running server using just the README (no slack allowed!)? If not, I have to reverse engineer that and document it in the README as I figure it out. As I come to understand the basic software stack, third party service integrations, deployment setup, etc, all that gets documented.
+**Does it have documentation?** Can a new developer get from `git clone` to a running server using just the README (no slack allowed!)? If not, I have to reverse engineer that and document it in the README as I figure it out. As I come to understand the basic software stack, third party service integrations, deployment setup, etc, all that gets documented.
 
 **Are the dependencies accurately tracked?**
 Usually they are but if not I fix `package.json` and generate a new `packge-lock.json` as necessary.
@@ -17,14 +17,14 @@ OK if the server will start and listen for HTTP requests, I can switch into my n
  
 ## Automated unit tests are the foundation
 
-The next phase is setting up a good automated unit test stack. These days I reach for `tap`, `supertest`, and `nock` as my first choice libraries, but here are the important points to achieve.
+The next phase is setting up a good automated unit test stack. These days I reach for `tap`, `supertest`, and `nock` as my first choice libraries. Here are the important points to achieve:
 
 * Unit tests should run locally
 * Tests should be fast and deterministic
 * Running partial sets of tests at any granularity should be straightforward
 * Tests should be runnable under the devtools debugger
 
-The main bit of work is finding the right set of libraries, helper functions, and setup/teardown code that make sense for the service. I usually test the actual HTTP interface via `supertest` because the code to call an API endpoint via supertest is concise enough to be basically in the same category as just calling a function with arguments. Since the tests are coded against the same stable API interface that the web or mobile front ends use, this is a stable integration point and I can typically overhaul or rewrite an endpoint implementation without changing the HTTP interface to it. Usually API endpoints are not that much code, but if you do have a really complex endpoint, go ahead and write unit tests for the various internal implementation functions.
+The main bit of work is finding the right set of libraries, helper functions, and setup/teardown code that make sense for the service. I usually test the HTTP interface via `supertest` because the code to call an API endpoint via supertest is concise enough to be basically in the same category as just calling a function with arguments. Since the tests are coded against the same stable API interface that the web or mobile front ends use, this is a stable integration point and I can typically overhaul or rewrite an endpoint implementation without changing its HTTP interface. Usually API endpoints are not that much code, but if you do have a really complex endpoint, go ahead and write unit tests for the various internal implementation functions.
 
 Once the tests are working locally, I'll set up continuous integration so they work on pull requests and are integrated into github.
 
@@ -32,9 +32,9 @@ Once the tests are working locally, I'll set up continuous integration so they w
 
 If I put on my cynical hat for a moment, I could sum up the bulk of my consultancy as "I come in after non-unit-testing developers and get their code working by writing tests". Yes, that's a cynical characterization but there's a kernel of painful truth there.
 
-JavaScript as a language has zero support for writing correct programs. It allows and encourages us to write code that does not get even the most basic analysis for correctness. On a typical low-quality node.js server codebase, about the only guarantee likely to actually be upheld is that every file in the require dependency graph is syntactically valid javascript, and absolutely nothing beyond that is guaranteed. ReferenceErrors and TypeErrors are almost guaranteed to exist in large quantity. There's a plague of code out there crashing in production that was clearly never run: not on the developer's laptop, not in CI, no one tested it in QA. First execution is on the production server crashing when triggered by an end user.
+JavaScript as a language has near-zero support for writing correct programs. It allows and encourages us to write code that does not get even the most basic analysis for correctness. On a typical low-quality node.js server codebase, about the only guarantee likely to actually be upheld is that every file in the require dependency graph is syntactically valid javascript, and absolutely nothing beyond that is guaranteed. ReferenceErrors and TypeErrors are almost guaranteed to exist in large quantity. There's a plague of code out there crashing in production that was clearly never run: not on the developer's laptop, not in CI, no one tested it in QA. First execution is on the production server crashing when triggered by an end user.
 
-Putting on my less-cynical hat, I mostly still believe a well-tested node.js codebase is something you can reasonably deliver to a client and point to some good pragmatic realities that the technology has:
+Putting on my less-cynical hat, I mostly still believe a well-tested node.js codebase is something you can reasonably deliver to a client, and you can point to some pragmatic realities it offers:
 
 * Large set of developers able to work with it
 * Enormous ecosystem of available libraries
@@ -42,11 +42,11 @@ Putting on my less-cynical hat, I mostly still believe a well-tested node.js cod
 * Good to great performance at runtime
 * Excellent tooling throughout the software development lifecycle
 
-However, these **only** hold true if you have solid test coverage. Untested javascript is such a massive liability and a terrible-odds gamble that I think we as a community working with this technology stack need to take a hard and clear stance and make the following statement.
+However, these **only** hold true if you have solid test coverage. Untested javascript is such a massive liability and a terrible-odds gamble that I think we as a community working with this technology stack need to take a hard and clear stance and make the following statement:
 
 **Untested javascript is not a viable deliverable for professional software development.** Viable professional javascript **must** be delivered with extensive tests.
 
-Untested javascript is just incredibly likely to be rife with bugs and comes with enormous cost and risk to any refactoring. As agencies, consultants, and employees we need to stop delivering it. Clients need to be educated to insist on a working automated test suite running in a continuous integration system as a baseline deliverable.
+Untested javascript is just incredibly likely to be rife with bugs and comes with enormous cost and risk to any refactoring. As agencies, consultants, and employees we need to stop delivering it. Clients need to be educated to insist on a working automated test suite running in a continuous integration system as a baseline deliverable. I would say this is analogous to a plumber leaving a job without ever having put running water through the system.
 
 ## Establishing Patterns and Antipatterns
 
@@ -58,17 +58,17 @@ There are also usually repeated antipatterns. Of course, a well-applied middlewa
 
 Once the unit testing stack is solid, I begin the main phase of the real work here which is going through the API endpoints and identifying where the bugs and issues are. The unit tests are the guide here and the work should be prioritized using whatever information is available. Focus on the high-importance or high-frequency API calls first and leave the ancillary and supporting calls until later.
 
-The key tools for this include basic logging, a bug tracking tool, and optionally an error tracking service such as Sentry. The process loop I will repeat many times in this phase will look more or less as follows.
+The key tools for this include basic logging, a bug tracking tool, and optionally an error tracking service such as Sentry. The process loop I will repeat many times in this phase will look more or less as follows:
 
 * Identify a potential bug via an error in the log file, a server crash with stack trace, or a specific API response that is known to be incorrect
 * File a bug for the issue in the bug tracker with the relevant details so it can be understood and reproduced
 * Reproduce the failure in a unit test. Be sure to do this before making any changes to the relevant application code.
-* Once reproduced in a test, code a fix for the issue
+* Once reproduced in a failing test, code a fix for the issue
 * Guide the fix through delivery and mark as resolved
 
 ## Resist the temptation to rewrite and overhaul
 
-When faced with a nasty codebase, one may feel discomfort, frustration, and anxiety about the state of the code. These feelings can make the following things really tempting.
+When faced with a nasty codebase, one may feel discomfort, frustration, and anxiety about the state of the code. These feelings can make the following things really tempting:
 
 * Start a new codebase entirely
 * Bulk update all the dependencies to latest
@@ -81,21 +81,21 @@ A rewrite discards any latent value in the codebase and forces the client to pay
 
 The goal of this type of rescue is to make the software stable and reliable. Just bulk updating all the dependencies is almost certainly going introduce novel bugs and work counter to that goal. It's fine to update specific and particular dependencies when you have a concrete reason to do so, but just updating things in bulk for general "hygiene" is not appropriate in this situation, and without solid unit tests, you have no indication what has continued to work, continued to be broken, been fixed, or been broken in a novel way.
 
-The same logic applies to updating the version of node.js itself you are using. Until you have a substantial set of unit tests, it's totally in conflict with the project goals to do this.
+The same logic applies to updating the node.js version. Until you have a substantial set of unit tests, it's totally in conflict with the project goals to do this.
 
-As you add unit tests and increase code coverage, at some point it becomes safer to make broad updates and changes. Exactly where that point is a is a judgement call, but I recommend being conservative here.
+As you add unit tests and increase code coverage, at some point it becomes safer to make broad updates and changes. Exactly where that point is at is a judgement call, but I recommend being conservative here, erring on the side of more tests.
 
 ## Code autoformatting tools
 
 I'm a huge fan of autoformatting tools (`prettier`, `eslint --fix`, etc) and they've become pretty core to how I work. I don't worry about formatting issues when I'm actually typing code, I just hit `cmd+f` and trust it to make the code pretty.
 
-However, on an existing codebase that has not been using an autoformatter, I recommend caution. I would wait until automated unit test coverage is fairly high before considering running autoformatting across an entire codebase. And when doing so, be aware that this will essentially discard the existing git history and lose track of who wrote which code when (git blame, etc). This is a pretty steep trade-off. I personally don't value git history that much so I have my own point where I'm OK running an autoformatter on a whole codebase, just be sure to understand the trade offs when making this decision.
+However, on an existing codebase that has not been using an autoformatter, I recommend caution. I would wait until automated unit test coverage is fairly high before considering running autoformatting across an entire codebase. And when doing so, be aware that this will essentially discard the existing git history and lose track of who wrote which code when (git blame, etc). This is a pretty steep trade-off. I personally don't value git history that much so I have my own point where I'm OK running an autoformatter on a whole codebase, just be sure to understand the trade-offs when making this decision.
 
 If you do have valuable history in git that you don't want to mess up, another strategy to consider is file-by-file extraction of code into a set that is autoformatted and a set that is left untouched.
 
 ## Linting
 
-`eslint` and particularly [eslint-stats](https://www.npmjs.com/package/eslint-stats) can be helpful guides. However, due to concerns about adding bugs in untested code, I don't actually recommend changing the code based on eslint warnings/errors until after you have unit tests coverage. These can help identify troublesome areas in the code, but don't go into the codebase and fix eslint issues throughout without unit test coverage.
+`eslint` and particularly [eslint-stats](https://www.npmjs.com/package/eslint-stats) can be helpful guides. However, due to concerns about adding bugs in untested code, I don't recommend changing the code based on eslint warnings/errors until after you have unit tests coverage. These can help identify troublesome areas in the code, but don't go into the codebase and fix eslint issues throughout without unit test coverage.
 
 ## A side note about promises
 
