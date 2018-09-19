@@ -160,3 +160,121 @@ In this post I want to chronicle my learning of Clojure from the beginning.
 
 # 2018-01-07T11:45:14-0700
 - http://vvvvalvalval.github.io/posts/2018-01-06-so-yeah-about-clojures-syntax.html
+
+# 2018-09-06T08:41:03-0600
+- started reading "Living Clojure"
+- true, false, 42, 21.5, "foo", \a, :symbol, nil
+- the idiom is to separate items in a list with just spaces, no commas
+
+# 2018-09-08T14:04:54-0600
+- lists are '(1 2 3 4 "foo" false 8.9)
+- functions: first, rest, cons, list, last, nth, conj, count
+
+# 2018-09-08T14:11:52-0600
+- downloaded an anki deck to learn the clojure API
+
+user=> (first '("a" "b" "c"))
+"a"
+user=> (last '("a" "b" "c"))
+"c"
+user=> (nth '("a" "b" "c") 1)
+"b"
+user=> (rest '("a" "b" "c"))
+("b" "c")
+user=> (cons 7 '("a" "b" "c"))
+(7 "a" "b" "c")
+user=> (conj '("a" "b" "c") 5 6 7)
+(7 6 5 "a" "b" "c")
+
+- conj is weird. It appends to vectors and prepends to lists
+- it's polymorphic
+
+user=> (keys {:foo "FOO", :bar "BAR"})
+(:foo :bar)
+user=> (vals {:foo "FOO", :bar "BAR"})
+("FOO" "BAR")
+
+- collections learned so far: list, vector, map
+- scalars so far: integers, float, double ?, boolean, string, char
+  - actually: boolean, integer, decimal, ratio, string, character, keyword
+
+user=> (get {:foo "FOO", :bar "BAR"} :foo)
+"FOO"
+user=> (get {:foo "FOO", :bar "BAR"} :foo2)
+nil
+user=> (get {:foo "FOO", :bar "BAR"} :foo2 "default")
+"default"
+
+- use keyword as a function
+user=> (:foo {:foo "FOO" :bar "BAR"})
+"FOO"
+
+- map functions, keyword as function, get, keys, vals, assoc, dissoc, merge
+- sets are #{} syntax
+
+- get, set, contains, intersection, union, conj, disj
+
+# 2018-09-08T14:55:27-0600
+- functions: apply, defn, fn
+- let block and def block
+- str to concatenate strings
+
+# 2018-09-08T15:03:24-0600
+- Switch to a namespace with (ns foo.bar)
+- *ns* to display repl's active namespace
+
+
+# 2018-09-09T08:17:23-0600
+- https://blog.takipi.com/clojure-at-scale-why-python-just-wasnt-enough-for-appsflyer/
+
+
+# 2018-09-09T08:17:40-0600
+- http://ahungry.com/blog/2018-09-09-Clojure-is-Cool.html
+
+# 2018-09-10T14:49:13-0600
+- boolean functions: true? false? not nil?
+- false and nil are the only logically false values
+- empty?
+- why don't seq and some end in question mark?
+
+# 2018-09-10T16:47:11-0600
+- (if) is basically the ternary operator
+- control flow with: if when if-let when-let
+
+
+# 2018-09-11T10:16:22-0600
+- partial for currying and partial application
+- comp to compose
+
+user=> (let [surprise #((comp oh-my toggle-grow) %)]
+  #_=> (surprise :small)
+  #_=> )
+"Oh my! You are growing :big"
+
+
+# 2018-09-13T17:02:52-0600
+- some new functions: take, range, count, class, repeat
+
+
+# 2018-09-13T17:06:17-0600
+* user=> (repeatedly 5 #(rand-int 885))
+(0 690 27 655 522)
+
+
+# 2018-09-17T09:35:32-0600
+- complement, filter, nil?, keyword?
+
+(def creatures [:mouse nil :rat nil :cat :dog])
+(filter (complement nil?) creatures)
+(filter nil? creatures)
+
+(for [animal creatures]
+  (str (name color))
+
+user=> (for [animal (filter keyword? creatures)]
+  #_=>   (str (name animal)))
+("mouse" "rat" "cat" "dog")
+
+# 2018-09-17T09:42:41-0600
+- for loop has 1 or more name bindings, optional :let vector, optional :when condition
+- into, sorted-map, flatten, partition, partition-all
