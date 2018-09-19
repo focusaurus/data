@@ -278,3 +278,6 @@ user=> (for [animal (filter keyword? creatures)]
 # 2018-09-17T09:42:41-0600
 - for loop has 1 or more name bindings, optional :let vector, optional :when condition
 - into, sorted-map, flatten, partition, partition-all
+
+# 2018-09-19T14:30:34-0600
+* https://clojure.org/guides/destructuring
