@@ -281,3 +281,73 @@ user=> (for [animal (filter keyword? creatures)]
 
 # 2018-09-19T14:30:34-0600
 * https://clojure.org/guides/destructuring
+ - so (let [_ foo] means destructure a sequence of parameters but we don't need a name for the first one and intend to ignore it. You can use _ more than once in the same destructuring.
+
+
+# 2018-09-19T14:55:55-0600
+* user=> (let [[first _ third & rest :as hey] fruits ] (prn third rest))
+"cumquat" ("dingleberry" "eword" "fructose")
+nil
+user=> (let [[first _ third & rest :as hey] fruits ] (prn third hey))
+"cumquat" ["apple" "blueberry" "cumquat" "dingleberry" "eword" "fructose"]
+nil
+
+
+# 2018-09-19T14:56:13-0600
+* reading the clojure guide about associative destructuring
+
+
+# 2018-09-20T11:29:49-0600
+* reading the main guide https://www.clojure.org/guides/learn/functions
+
+
+# 2018-09-20T11:42:08-0600
+* user=> (defn tipper [rate]
+  #_=> (fn [amount] (* amount (/ rate 100))))
+#'user/tipper
+user=> (def standard (tipper 15))
+#'user/standard
+user=> (standard 100)
+15N
+user=> (def generous (tipper 20))
+#'user/generous
+user=> (def stingy (tipper 12))
+#'user/stingy
+user=> (stingy 100)
+12N
+user=> (generous 100)
+20N
+user=> (generous 84.25)
+16.85
+
+
+# 2018-09-20T12:04:23-0600
+* (source defn) is awesome to see the clojure source of functions. Looks like there's a lot of overloading and duck typing going on.
+
+
+# 2018-09-20T14:06:41-0600
+* p=> (defn two-fns [f g] (fn [& args] (f(apply g args))))
+#'p/two-fns
+p=> (def hey (two-fns clojure.string/reverse clojure.string/upper-case))
+#'p/hey
+p=> (hey "Hello")
+"OLLEH"
+
+
+# 2018-09-20T15:20:50-0600
+* (defn fb [n]
+   (cond
+   (= (rem n 15) 0) "FizzBuzz"
+   (= (rem n 5) 0) "Buzz"
+   (= (rem n 3) 0) "Fizz"
+   :always (or (str n))
+  )
+)
+
+
+# 2018-09-21T13:56:57-0600
+* https://vimeo.com/223309989
+
+
+# 2018-09-21T14:49:09-0600
+* 4clojure problems
